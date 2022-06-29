@@ -17,6 +17,7 @@ hvplot - For hvplot Documentation
 sqlalchemy - For sqlalchemy Documentation
 
 **Instruction**
+----
 To use EFT Analyser Notebook simply open the etf_analyzer.ipynb file in Jupyter Lab Notebook.
 
 
